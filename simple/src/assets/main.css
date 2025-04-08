@@ -1,0 +1,28 @@
+@import './base.css';
+:root {
+  --orange: #ec5a13;
+  --orange-pale: #ffe9de;
+  --black: #152233;
+  --grey: #627c93;
+  --grey-med: #e6eaee;
+  --grey-light: #f4f9fe;
+  --blue-dark: #094171;
+  --brown: #89380f;
+  --header-height: 50px;
+  --footer-height: 50px;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 40px;
+}
+
+h2 {
+  font-size: 14px;
+  font-weight: bold;
+}
+.container {
+  margin: 0 auto;
+}
